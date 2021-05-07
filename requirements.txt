@@ -25,4 +25,5 @@ rtree
 pygeos
 fuzzywuzzy
 xgboost
-surprise
+statsmodels
+scikit-surprise
