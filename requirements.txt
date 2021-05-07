@@ -23,3 +23,6 @@ shapely
 descartes
 rtree
 pygeos
+fuzzywuzzy
+xgboost
+surprise
