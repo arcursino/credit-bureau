@@ -27,3 +27,4 @@ fuzzywuzzy
 xgboost
 statsmodels
 scikit-surprise
+mlxtend 
