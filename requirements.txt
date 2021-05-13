@@ -28,3 +28,5 @@ xgboost
 statsmodels
 scikit-surprise
 mlxtend 
+gower
+umap
